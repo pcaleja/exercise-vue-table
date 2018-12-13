@@ -2,13 +2,11 @@
 
 This is a small exercise to build a table component using vue. My approach was to keep the component as simple as possible where how it renders is dependent only on the props that's been passed to it. I was thinking of making a composable table by using slots but it might end up just becoming unnecessary overhead.
 
----
 
 ## Deployment
 
 I'm using netlify for hosting. Deploy process is to push to github and it will trigger a build in netlify.
 
----
 
 ## Follow-up Questions
 1. How long did you spend on the test? Would you do anything differently if you had more time?
@@ -23,7 +21,6 @@ I think the search functionality can be improved so that it can also handle non 
 
 Not specific for this project, but I picked up css grids recently and it's changing the way I layout project I'm currently working on.
 
----
 
 ## Project setup
 ```
